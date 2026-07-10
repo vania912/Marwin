@@ -1,0 +1,10 @@
+# Copy to config.yaml and fill in your Kaggle username.
+kaggle:
+  username: YOUR_KAGGLE_USERNAME
+  dataset_slug: marwin-inbox
+  kernel_slug: marwin-processor
+  keep_audio: false   # not yet implemented (Phase 2): in Phase 1 the last-processed meeting's audio stays in your PRIVATE Kaggle dataset until the next upload replaces it
+recording:
+  chunk_seconds: 60
+  min_free_gb: 2.0
+meetings_dir: meetings

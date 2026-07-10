@@ -1,0 +1,6 @@
+pyaudiowpatch>=0.2.12
+PyYAML>=6.0
+jsonschema>=4.0
+streamlit>=1.41
+kaggle>=1.6
+pytest>=8.0

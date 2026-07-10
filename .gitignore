@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+meetings/
+memory/
+speakers/
+config.yaml
+kaggle.json
+.kaggle-staging/
+*.wav
+*.opus
+*.egg-info/
+hf_token.txt
+.superpowers/
+mic_label.txt
